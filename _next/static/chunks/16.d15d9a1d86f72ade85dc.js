@@ -1,0 +1,1 @@
+(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[16],{"8/4X":function(n,t,e){"use strict";e.r(t),e.d(t,"default",(function(){return i}));var c=e("nKUr");function i(n){n.dataset;return Object(c.jsx)("section",{children:"Testimonial Block"})}}}]);

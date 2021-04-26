@@ -1,0 +1,1 @@
+(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[15],{"2fcP":function(n,t,c){"use strict";c.r(t),c.d(t,"default",(function(){return r}));var e=c("nKUr");function r(n){n.dataset;return Object(e.jsx)("section",{children:"Strength Block"})}}}]);
